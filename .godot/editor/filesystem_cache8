@@ -1,0 +1,9 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706826304
+drag and drop p1.gd::GDScript::-1::1706306762::0::1::::<>Node2D<>::
+drag and drop p1.tscn::PackedScene::1658033665480443713::1706734257::0::1::::<><>::res://drag and drop p1.gd<>uid://cyrskqwy5xvx1::::res://icon.svg<>res://Icon.gd
+drag and drop p2.gd::GDScript::-1::1706238801::0::1::::<>AnimatedSprite2D<>::
+drag_and_drop_p_2.tscn::PackedScene::2403032753551468644::1706734257::0::1::::<><>::res://drag and drop p2.gd
+Icon.gd::GDScript::-1::1706238978::0::1::::<>Sprite2D<>::
+icon.svg::CompressedTexture2D::6493579675817609620::1705461692::1705461696::1::::<><>::
+::res://textures/::1706221006

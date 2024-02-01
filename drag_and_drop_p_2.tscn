@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://baibulycx7cx5"]
+
+[ext_resource type="Script" path="res://drag and drop p2.gd" id="1_unasu"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_iqq4a"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ok3b3"]
+
+[node name="drag and drop p2" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_iqq4a")
+script = ExtResource("1_unasu")
+
+[node name="Area2D" type="Area2D" parent="AnimatedSprite2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AnimatedSprite2D/Area2D"]
+shape = SubResource("RectangleShape2D_ok3b3")
